@@ -14,7 +14,7 @@ const geistMono = localFont({
 })
 
 export const metadata: Metadata = {
-  title: 'CodeGuide Starter Pro',
+  title: 'CodeGuide Starter Lite',
   description: 'Starter kit from codeguide.dev',
 }
 
