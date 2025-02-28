@@ -1,6 +1,7 @@
 ---
 description: Best practices to implement for the tech stack used
 globs: 
+alwaysApply: true
 ---
 Before diving into the best practices, please note that you may need to adapt the globs depending on your specific project structure.
 
