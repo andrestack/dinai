@@ -54,5 +54,15 @@ node_modules/
 # OS specific
 
 # Task files
-# tasks.json
-# tasks/ 
+tasks.json
+tasks/ 
+.taskmaster/
+.taskmaster/config.json
+.taskmaster/state.json
+.taskmaster/reports/
+.taskmaster/tasks/
+.taskmaster/docs/
+.taskmaster/templates/
+
+# Cursor
+.cursor/mcp.json
